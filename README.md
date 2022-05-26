@@ -2,6 +2,8 @@
 
 # Hello Microverse
 
+This project is configuration of linter into html and CSS.
+
 > Description the project.
 
 
