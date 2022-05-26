@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Abdifatah**
 
 - GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
 
