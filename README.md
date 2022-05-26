@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Microverse
@@ -59,3 +60,6 @@ Microverse could be a good idea.
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+=======
+# Hello-Microverse
+>>>>>>> main
