@@ -37,6 +37,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Abdifatah**
 
 - GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
 
 ## 🤝 Contributing
